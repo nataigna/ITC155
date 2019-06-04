@@ -129,7 +129,7 @@ public class ArrayIntList {
 
       //checking if one of the elements of the list is the same as the first value
 			if(elementData[i] == firstVal) {
-                elementData[i] = secondVal; //replacing it with the secondValue
+                elementData[i] = secondVal; //replacing it with the second value
 			}
 		}
 		return elementData;
